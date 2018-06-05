@@ -16,8 +16,8 @@
     The AppBar and app body should be the same color. In our example, we use Colors.green[100].
 ## Screenshots
 
-<p align="center">
-  <img src="https://github.com/NaagAlgates/Flutter_Route/blob/master/screenshots/1.png" width="350" height="450"/>
-  <img src="https://github.com/NaagAlgates/Flutter_Route/blob/master/screenshots/2.png" width="350" height="450"/>
-  <img src="https://github.com/NaagAlgates/Flutter_Route/blob/master/screenshots/3.png" width="350" height="450"/>
+<p align="left">
+  <img src="https://github.com/NaagAlgates/Flutter_Route/blob/master/screenshots/1.png" width="350" height="550"/>
+  <img src="https://github.com/NaagAlgates/Flutter_Route/blob/master/screenshots/2.png" width="350" height="550"/>
+  <img src="https://github.com/NaagAlgates/Flutter_Route/blob/master/screenshots/3.png" width="350" height="550"/>
 </p>
